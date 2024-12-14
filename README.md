@@ -104,3 +104,5 @@ Logo Concept
 Symbol: A sleek, futuristic design combining a spiral galaxy and an upward arrow, symbolizing exploration, growth, and endless possibilities.
 Color Palette: Deep blue (trust and innovation), silver (advanced technology), and white (purity and progress).
 Tagline Placement: Below the logo – "Innovating Beyond Boundaries."
+
+This is my official website for my organisation. This site content are original.
